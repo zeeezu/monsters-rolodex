@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zeeezu.github.io/monsters-rolodex",
+  "homepage": "https://github.com/zeeezu/monsters-rolodex.git",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
